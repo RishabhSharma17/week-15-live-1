@@ -7,7 +7,7 @@
         4.1. docker run -p number:number image_name -- It will determine the port for localmachine.
         4.2. docker run -e ENVIORNMENT_VARIABLES -p number:number image_name.
 5. docker kill runningdockernumberthroughcommandno.2
-
+6. docker exec CONTAINER_ID command(want to run)
 
 
 ## Commands extracted from Docker
